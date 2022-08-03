@@ -6,6 +6,10 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <link rel="icon" href="<%= BASE_URL %>favicon.ico">
     <title><%= htmlWebpackPlugin.options.title %></title>
+    <!-- Load the Lit Component Bundle -->
+    <script type="module" src="/libs/sample-lit-test.bundled.js"></script>
+    <!-- Load the Stencil Component Bundle -->
+    <script type="module" src="/libs/sample-ui-stencil/dist/sample-ui-component-stencil/sample-ui-component-stencil.esm.js"></script>
   </head>
   <body>
     <noscript>

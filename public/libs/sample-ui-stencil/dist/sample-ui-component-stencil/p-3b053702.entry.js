@@ -1,0 +1,1 @@
+import{r as t,h as e}from"./p-69ab72e4.js";const r=class{constructor(e){t(this,e)}getText(){return this.text}render(){return e("div",null,"Sample Stencil Component: ",this.getText())}};r.style=":host{display:block;background-color:aquamarine}";export{r as sample_stencil_test}

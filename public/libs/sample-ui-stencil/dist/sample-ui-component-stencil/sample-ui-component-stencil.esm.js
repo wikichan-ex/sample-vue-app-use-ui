@@ -1,0 +1,1 @@
+import{p as t,b as e}from"./p-69ab72e4.js";(()=>{const e=import.meta.url,s={};return""!==e&&(s.resourcesUrl=new URL(".",e).href),t(s)})().then((t=>e([["p-3b053702",[[1,"sample-stencil-test",{text:[1]}]]]],t)));
