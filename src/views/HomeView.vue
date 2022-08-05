@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <h>Demo of Web components</h>
+    <h2>Demo of Web components</h2>
     <p></p>
     <p>Lit Web Component:</p>
     <p><sample-lit-test text="Test" /></p>
